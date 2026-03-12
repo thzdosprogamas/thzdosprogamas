@@ -19,8 +19,8 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-<img height="160em" src="https://github-readme-stats.vercel.app/api?username=thzdosprogramas&show_icons=true&theme=tokyonight&hide_border=true"/>
-<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thzdosprogramas&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="160em" src="https://github-readme-stats.vercel.app/api?username=thzdosprogamas&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thzdosprogamas&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
@@ -54,28 +54,28 @@ System for managing books, loans and returns.
 ## 🌎 Languages
 
 🇧🇷 Portuguese — Native  
-🇺🇸 English — Intermediate (actively improving)
+🇺🇸 English — Intermediate (improving)
 
 ---
 
 ## 💼 Open to Work
 
-I am currently open to:
+Currently open to:
 
-- Freelance projects  
-- Remote opportunities  
-- Backend development work  
-- Automation and web projects
+- Freelance projects
+- Remote opportunities
+- Backend development
+- Automation and web systems
 
 ---
 
 ## 📬 Contact
 
-📧 Professional Email:  
+📧 Professional Email  
 matheuswolfdev@gmail.com
 
-GitHub:  
-https://github.com/thzdosprogramas
+GitHub  
+https://github.com/thzdosprogamas
 
 ---
 
