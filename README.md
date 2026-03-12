@@ -1,9 +1,11 @@
 <h1 align="center">👋 Hi, I'm Matheus</h1>
 
 <p align="center">
-💻 Back-end developer focused on Python <br>
+💻 Backend Developer focused on Python <br>
+🌐 Experience with Front-End (HTML, CSS, JavaScript) <br>
 🚀 Building real-world projects and websites for clients <br>
-🌎 Interested in freelance work and international opportunities
+📈 Working towards becoming a Full-Stack Developer <br>
+🌎 Open to freelance work and remote opportunities
 </p>
 
 ---
@@ -25,18 +27,32 @@
 
 ---
 
-## 🚀 Featured Projects
+# 🚀 Featured Projects
+
+## 🌐 Websites developed for real clients
 
 🔹 **Manacá Refrigeração Website**  
-Institutional website developed for a real client.
+Institutional website developed for a real client focused on presenting the company and facilitating customer contact.
 
 https://manacasolucoes.com.br
 
-🔹 **Customer Management System (Python)**  
-Simple CRUD system to manage clients.
+🔹 **MayhGift Website**  
+Product catalog website developed for a real client featuring image gallery and WhatsApp integration.
+
+https://www.mayhgift.com.br
+
+---
+
+## ⚙️ Backend & Python Projects
+
+🔹 **FastAPI CRUD Client API**  
+REST API built with FastAPI for managing clients with CRUD operations.
+
+🔹 **Client Management System (Python)**  
+Simple system to manage clients using CRUD operations.
 
 🔹 **Library Management System (Python)**  
-System for managing books, loans and returns.
+System designed to manage books, loans and returns.
 
 🔹 **BMI + Training Recommendation System**
 
@@ -44,10 +60,10 @@ System for managing books, loans and returns.
 
 ## 📚 Currently Learning
 
-- Back-end development with Python  
-- APIs  
+- Backend development with Python  
+- REST APIs with FastAPI  
 - Automation with Python  
-- Web development
+- Improving Front-End skills
 
 ---
 
@@ -62,10 +78,11 @@ System for managing books, loans and returns.
 
 Currently open to:
 
-- Freelance projects
-- Remote opportunities
-- Backend development
-- Automation and web systems
+- Freelance projects  
+- Remote opportunities  
+- Backend development  
+- API development  
+- Automation projects
 
 ---
 
